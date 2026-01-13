@@ -28,8 +28,8 @@ A comprehensive sentiment analysis tool that can analyze sentiment in user revie
 
 ```bash
 # Clone the repository
-git clone https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool.git
-cd Multilingual-Sentiment-Analysis-Tool
+git clone https://github.com/MURSHIDMOHAMMED/Sentiment-Analysis.git
+cd Sentiment-Analysis
 
 # Run installation script
 chmod +x scripts/install.sh
@@ -46,7 +46,7 @@ python run_demo.py
 
 ```bash
 # Clone and setup
-git clone https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool.git
+git clone https://github.com/MURSHIDMOHAMMED/Sentiment-Analysis.git
 cd Multilingual-Sentiment-Analysis-Tool
 
 # Create virtual environment
@@ -80,8 +80,6 @@ docker run -p 8000:8000 sentiment-analysis
 streamlit run app/frontend/streamlit_app.py
 # Open http://localhost:8501
 ```
-
-**🌐 Or try the live demo**: https://multilingual-sentiment-analysis.streamlit.app/
 
 ### API Server
 ```bash
@@ -239,12 +237,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Links
 
-- 🚀 **Live Demo**: https://multilingual-sentiment-analysis.streamlit.app/
-- 📖 **Repository**: https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool
+- 📖 **Repository**: https://github.com/MURSHIDMOHAMMED/Sentiment-Analysis.git
 - 📚 **Documentation**: [API Docs](docs/API_DOCUMENTATION.md) | [Usage Examples](docs/USAGE_EXAMPLES.md) | [Deployment Guide](docs/DEPLOYMENT.md)
 
 ## 📞 Support
 
 - 📧 Email: murshidmohammed006@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/MURSHIDMOHAMMED/Sentiment-Analysis/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/MURSHIDMOHAMMED/Sentiment-Analysis/discussions)

@@ -249,3 +249,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📧 Email: midlajmuhammed@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/MURSHIDMOHAMMED/Multilingual-Sentiment-Analysis-Tool/discussions)
+#   S e n t i m e n t - A n a l y s i s  
+ 

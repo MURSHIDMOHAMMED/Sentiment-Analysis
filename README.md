@@ -8,7 +8,6 @@ A comprehensive sentiment analysis tool that can analyze sentiment in user revie
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B.svg)](https://multilingual-sentiment-analysis.streamlit.app/)
 
-## 🚀 **[Try the Live Demo](https://multilingual-sentiment-analysis.streamlit.app/)**
 
 ## ✨ Features
 
